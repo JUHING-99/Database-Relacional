@@ -19,3 +19,43 @@ El proyecto busca proporcionar experiencia en la creación de bases de datos rel
 - Diagrama lógico de la base de datos.
 - Scripts SQL para crear la base de datos y las tablas.
 - Base de datos funcional con datos importados y consultables.
+
+## Estructura de Carpetas
+
+- `src`: Carpeta principal.
+  - `notebooks`: Jupyter notebooks con análisis y scripts.
+  - `data`: Datos y recursos utilizados.
+    - `img`: Imágenes utilizadas.
+  - `memoria`: Documentación detallada del desarrollo del proyecto.
+  - `presentacion`: Archivos y recursos para la presentación del proyecto.
+
+## Colaboradores
+
+- Alex Campos
+- Adrian Ortiz
+- Cristina Mateo
+- Daniel Manso
+- Daniel Gouveia
+
+## Cómo Contribuir
+
+Si deseas contribuir, por favor abre un Issue explicando el cambio propuesto o envía un Pull Request.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
+
+## Herramientas y Tecnologías
+
+- PGAdmin 4
+- ElephantSQL (Servidor)
+- PostgreSQL (Motor de base de datos)
+- Python
+- Pandas
+- Librería psycopg2 binaria
+- Excel 
+- Canvas (Para la presentación)
+
+---
+
+Si tienes alguna pregunta o sugerencia, no dudes en abrir un Issue o enviar un Pull Request.
