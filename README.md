@@ -22,12 +22,12 @@ El proyecto busca proporcionar experiencia en la creación de bases de datos rel
 
 ## Estructura de Carpetas
 
-- `src`: Carpeta principal.
-  - `notebooks`: Jupyter notebooks con análisis y scripts.
-  - `data`: Datos y recursos utilizados.
-    - `img`: Imágenes utilizadas.
-  - `memoria`: Documentación detallada del desarrollo del proyecto.
-  - `presentacion`: Archivos y recursos para la presentación del proyecto.
+- `src`: [Carpeta principal](/Database-Relacional/src/).
+  - `notebooks`: [Jupyter notebooks](/Database-Relacional/src/notebooks/) con análisis y scripts.
+  - `data`: [Datos y recursos](/Database-Relacional/src/data/) utilizados.
+    - `img`: [Imágenes](/Database-Relacional/src/data/Img/) utilizadas.
+  - `memoria`: [Documentación](/Database-Relacional/src/memoria/Memoria.ipynb) detallada del desarrollo del proyecto.
+  - `presentacion`: Archivos y recursos para la [presentación del proyecto](/Database-Relacional/src/presentacion/Creación%20de%20una%20BBDD%20relacional.pdf).
 
 ## Colaboradores
 
